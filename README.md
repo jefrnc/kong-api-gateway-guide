@@ -1,4 +1,3 @@
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/josephefranco)
 
 # Un poco de Kong (Api Gateway)
 
@@ -317,4 +316,4 @@ Mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ---
 ⌨️ con ❤️ por [jose-franco](https://github.com/jefrnc) 😊
-Si me queres contactar te dejo mi [Telegram](https://t.me/jsfrnc) y [Linkedin](https://www.linkedin.com/in/joffranco/).
+Si me querés contactar te dejo mi [Telegram](https://t.me/birratrades) y [LinkedIn](https://www.linkedin.com/in/jsfrnc/).
